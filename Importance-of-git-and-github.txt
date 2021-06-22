@@ -1,0 +1,8 @@
+EXPLANATION OF THE IMPORTANCE OF GIT AND GITHUB
+
+The importance of Git is to eliminates everything from the time wasted passing commits
+over a network connection to the man hours required to integrate changes in a centralized version control system.
+
+GitHub it is a website for developers and programmers to collaborate work on code.  The primary benefit of this website
+is the version control system, because this will allows collaboration with their group or workmates (push or pull)
+without compromising the integrity of the original project.
